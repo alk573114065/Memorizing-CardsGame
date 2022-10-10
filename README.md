@@ -8,3 +8,8 @@
 - Counts Score
 - CardsMatchFailed, there will be get wrong animation action and the cards will flip it
 
+
+
+##  github page
+
+https://alk573114065.github.io/Memorizing-CardsGame/
